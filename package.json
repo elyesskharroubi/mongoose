@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-cp",
+  "version": "1.0.0",
+  "description": "mongoose chekpoint",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elyess kharroubi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.9",
+    "validator": "^13.5.2"
+  }
+}
